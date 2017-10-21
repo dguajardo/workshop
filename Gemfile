@@ -54,4 +54,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #Flexible authentication solution for Rails with Warden.
 gem 'devise' , '4.3.0'
+#An opinionated framework for creating REST-like APIs in Ruby
 gem 'grape' , '1.0.1'
+#An API focused facade that sits on top of an object model.
+gem 'grape-entity' , '0.6.1'
