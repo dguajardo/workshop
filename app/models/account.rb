@@ -1,4 +1,4 @@
 class Account < ApplicationRecord
   has_many :movements
-  belongs_to :users
+  belongs_to :user
 end
