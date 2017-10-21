@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #Flexible authentication solution for Rails with Warden.
 gem 'devise' , '4.3.0'
+gem 'grape' , '1.0.1'
